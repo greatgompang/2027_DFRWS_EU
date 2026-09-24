@@ -1,0 +1,24 @@
+{
+  "case_id": "rcase-094",
+  "target": {
+    "action_id": "act-01",
+    "arg_key": "city",
+    "literal": "New York"
+  },
+  "tool_log": [
+    {
+      "action_id": "act-01",
+      "tool": "update_user_info",
+      "args": {
+        "street": "1234 Elm Street",
+        "city": "New York"
+      },
+      "result": {
+        "first_name": "Emma",
+        "last_name": "Johnson",
+        "street": "1234 Elm Street",
+        "city": "New York"
+      }
+    }
+  ]
+}

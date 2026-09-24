@@ -1,0 +1,7 @@
+# Third-party notices and reuse scope
+
+The saved source records and evidence packets contain simulated tasks/data derived from **AgentDojo**, distribution 0.1.35, Banking benchmark v1.2.2. The pinned source commit recorded for that distribution is `a75aba7631d3ca5fb7ab938965c97ead2f9ff84b`. Upstream: <https://github.com/ethz-spylab/agentdojo>.
+
+The distribution's original MIT license and full copyright notice are preserved unchanged in [licenses/AgentDojo_LICENSE.txt](licenses/AgentDojo_LICENSE.txt). This attribution identifies the benchmark's authors, not the anonymous paper's authors. The package does not include the AgentDojo implementation or install its dependencies; only the selected simulated execution records and derived evidence needed for the offline audit are included. No actual bank service is contacted by reproduction commands.
+
+Research-specific evaluators, wrappers, manifests, prompts, and generated outputs have **not** been assigned a new blanket MIT or other open-source license during artifact preparation. They are supplied for review and verification; the AgentDojo notice must not be interpreted as a license grant covering all other contents. A general downstream reuse license for project-specific materials is outside this preparation step. Provider names/model identifiers describe retained experiments and imply neither endorsement nor future model access. No model weights, provider SDKs, template classes, fonts, third-party plotting libraries, or cached attack-development payload collections are redistributed.

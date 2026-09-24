@@ -1,0 +1,17 @@
+\begin{table}[t]
+\centering
+\caption{Implemented record-binding contract. IDs and locators are scoped to one saved execution; the case manifest identifies that execution. A mapping row supplies a relation, not record text.}
+\label{tab:schema}
+\begin{tabularx}{\columnwidth}{@{}lY@{}}
+\toprule
+Field or structure & Meaning and boundary \\
+\midrule
+\code{case\_id} & Packet identity; manifest links to the saved run. \\
+\code{target.action\_id} & Selected action; ordered tool log defines the earlier-record boundary. \\
+\code{stated\_refs} & Saved Basis: null means absent; an empty array means recorded empty. \\
+\code{id\_mapping} & Rows contain only \code{id} and \code{locator}; present in C10/C11. \\
+Record locator & Whole tool result, one-based list element, or \code{request.user}; no substring offset. \\
+\code{native\_inputs} & R01/R11 provide input text, ID, locator, and channel. A user locator alone does not reveal user text. \\
+\bottomrule
+\end{tabularx}
+\end{table}

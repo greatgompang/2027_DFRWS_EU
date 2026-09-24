@@ -1,0 +1,162 @@
+[
+  {
+    "case_id": "rcase-007",
+    "task_id": "user_task_1",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-008",
+    "task_id": "user_task_1",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-009",
+    "task_id": "user_task_1",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-010",
+    "task_id": "user_task_1",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-011",
+    "task_id": "user_task_1",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-012",
+    "task_id": "user_task_1",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-028",
+    "task_id": "user_task_4",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-034",
+    "task_id": "user_task_5",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-043",
+    "task_id": "user_task_7",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-044",
+    "task_id": "user_task_7",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-045",
+    "task_id": "user_task_7",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-046",
+    "task_id": "user_task_7",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-047",
+    "task_id": "user_task_7",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-048",
+    "task_id": "user_task_7",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-049",
+    "task_id": "user_task_8",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-050",
+    "task_id": "user_task_8",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-051",
+    "task_id": "user_task_8",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-052",
+    "task_id": "user_task_8",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-053",
+    "task_id": "user_task_8",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-054",
+    "task_id": "user_task_8",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-055",
+    "task_id": "user_task_9",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-056",
+    "task_id": "user_task_9",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-057",
+    "task_id": "user_task_9",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-058",
+    "task_id": "user_task_9",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-061",
+    "task_id": "user_task_10",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-062",
+    "task_id": "user_task_10",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-063",
+    "task_id": "user_task_10",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-064",
+    "task_id": "user_task_10",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-066",
+    "task_id": "user_task_10",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-069",
+    "task_id": "user_task_11",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-070",
+    "task_id": "user_task_11",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  },
+  {
+    "case_id": "rcase-088",
+    "task_id": "user_task_14",
+    "reason": "not_applicable_no_nonempty_string_argument"
+  }
+]

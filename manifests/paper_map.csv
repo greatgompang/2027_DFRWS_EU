@@ -1,0 +1,16 @@
+paper_item,label_or_claim,status,output_or_input,boundary
+Table 1,tab:campaign,outside_package,,Full campaign raw logs and classification dependencies omitted
+Table 2,tab:schema,contract_verifiable,schemas/answer.json;data/study_ii/packets;expected_results/paper_tables/binding_schema.tex,Binding schema and field visibility
+Table 3,tab:comparator,recalculable,results/comparator_results.csv,Packet-only answers subsequently scored
+Table 4,tab:study1,recalculable,results/results_summary.csv,study=I
+Table 5,tab:study2,recalculable,results/results_summary.csv,study=II
+Table 6,tab:contrasts,recalculable,results/verified_contrasts.csv,13 clusters; 10000 draws; seed42
+Table 7,tab:required,recalculable,results/strata.csv,stratum=mapping_required
+Figure 1,fig:overview,partly_verifiable,results/input_validation.json,Selection/conditions/boundaries verified; manuscript has a graphical placeholder
+Figure 2,fig:q3,numerically_recalculable,results/figure2_outcomes.csv;results/figure2.svg,Same outcome counts; new SVG rendering
+Abstract,26/28 and 22,recalculable,results/strata.csv,Sonnet C00 mapping_required U=26 W_and_U=22
+Results,58 errors in 31 cases,recalculable,results/q3_with_binding_errors.json;results/q3_error_summary.csv,"Overlapping mechanical flags, not exclusive causes"
+Results,renaming and agreement,recalculable,results/additional_claims.json,"Q3 changes, shared W-and-U and 274 erroneous question items"
+Corpus,96/64/32 and 22/17/25,recalculable,results/input_validation.json,Selection recomputed from inventory projection; applicability from all 96 native logs
+Results,reader input volume and cost estimates,retained_metadata_aggregation,results/recorded_usage.csv,No invoices or full operational pass wall-time accounting
+Corpus,pilot/qualification/E1/E2/E3/development,outside_package,,No full earlier-study reproduction claim

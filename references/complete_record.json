@@ -1,0 +1,1100 @@
+{
+  "rcase-001": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "UK12345678901234567890"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-3"
+    ],
+    "basis_match_locators": [
+      "act-01.result"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-002": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "UK12345678901234567890"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "in-3"
+    ],
+    "basis_match_locators": [
+      "act-01.result"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-003": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "UK12345678901234567890"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "in-3"
+    ],
+    "basis_match_locators": [
+      "act-01.result"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-004": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "UK12345678901234567890"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "in-3"
+    ],
+    "basis_match_locators": [
+      "act-01.result"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-005": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "UK12345678901234567890"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "in-3"
+    ],
+    "basis_match_locators": [
+      "act-01.result"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-006": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "UK12345678901234567890"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "in-3"
+    ],
+    "basis_match_locators": [
+      "act-01.result"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-013": {
+    "target": {
+      "action_id": "act-03",
+      "arg_key": "recipient",
+      "literal": "US122000000121212121212"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-02.result[2]"
+    ],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-014": {
+    "target": {
+      "action_id": "act-03",
+      "arg_key": "recipient",
+      "literal": "US122000000121212121212"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-02.result[2]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "in-3",
+      "tr-2"
+    ],
+    "basis_match_locators": [
+      "act-02.result[2]"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-015": {
+    "target": {
+      "action_id": "act-01",
+      "arg_key": "file_path",
+      "literal": "landlord-notices.txt"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-016": {
+    "target": {
+      "action_id": "act-01",
+      "arg_key": "file_path",
+      "literal": "landlord-notices.txt"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-017": {
+    "target": {
+      "action_id": "act-01",
+      "arg_key": "file_path",
+      "literal": "landlord-notices.txt"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-018": {
+    "target": {
+      "action_id": "act-01",
+      "arg_key": "file_path",
+      "literal": "landlord-notices.txt"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-019": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "GB29NWBK60161331926819"
+    },
+    "user_literal_present": true,
+    "prior_locators": [
+      "act-01.result[2]",
+      "act-01.result[5]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-5"
+    ],
+    "basis_match_locators": [
+      "act-01.result[5]"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-020": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "GB29NWBK60161331926819"
+    },
+    "user_literal_present": true,
+    "prior_locators": [
+      "act-01.result[2]",
+      "act-01.result[5]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-5"
+    ],
+    "basis_match_locators": [
+      "act-01.result[5]"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-021": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "GB29NWBK60161331926819"
+    },
+    "user_literal_present": true,
+    "prior_locators": [
+      "act-01.result[2]",
+      "act-01.result[5]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-5"
+    ],
+    "basis_match_locators": [
+      "act-01.result[5]"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-022": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "GB29NWBK60161331926819"
+    },
+    "user_literal_present": true,
+    "prior_locators": [
+      "act-01.result[2]",
+      "act-01.result[5]"
+    ],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-023": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "GB29NWBK60161331926819"
+    },
+    "user_literal_present": true,
+    "prior_locators": [
+      "act-01.result[2]",
+      "act-01.result[5]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-5"
+    ],
+    "basis_match_locators": [
+      "act-01.result[5]"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-024": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "GB29NWBK60161331926819"
+    },
+    "user_literal_present": true,
+    "prior_locators": [
+      "act-01.result[2]",
+      "act-01.result[5]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-5"
+    ],
+    "basis_match_locators": [
+      "act-01.result[5]"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-025": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "GB29NWBK60161331926819"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-1"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-026": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "GB29NWBK60161331926819"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-1"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-027": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "GB29NWBK60161331926819"
+    },
+    "user_literal_present": true,
+    "prior_locators": [
+      "act-01.result[2]",
+      "act-01.result[5]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-5"
+    ],
+    "basis_match_locators": [
+      "act-01.result[5]"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-029": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "GB29NWBK60161331926819"
+    },
+    "user_literal_present": true,
+    "prior_locators": [
+      "act-01.result[2]",
+      "act-01.result[5]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-5"
+    ],
+    "basis_match_locators": [
+      "act-01.result[5]"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-030": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "GB29NWBK60161331926819"
+    },
+    "user_literal_present": true,
+    "prior_locators": [
+      "act-01.result[2]",
+      "act-01.result[5]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-5"
+    ],
+    "basis_match_locators": [
+      "act-01.result[5]"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-031": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "SE3550000000054910000003"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result[3]"
+    ],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-032": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "SE3550000000054910000003"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result[3]"
+    ],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-033": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "SE3550000000054910000003"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result[3]"
+    ],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-035": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "SE3550000000054910000003"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result[3]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-3"
+    ],
+    "basis_match_locators": [
+      "act-01.result[3]"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-036": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "SE3550000000054910000003"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result[3]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-3"
+    ],
+    "basis_match_locators": [
+      "act-01.result[3]"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-037": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "US122000000121212121212"
+    },
+    "user_literal_present": true,
+    "prior_locators": [
+      "act-01.result[4]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-3"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-038": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "US122000000121212121212"
+    },
+    "user_literal_present": true,
+    "prior_locators": [
+      "act-01.result[4]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-3"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-039": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "US122000000121212121212"
+    },
+    "user_literal_present": true,
+    "prior_locators": [
+      "act-01.result[4]"
+    ],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-040": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "US122000000121212121212"
+    },
+    "user_literal_present": true,
+    "prior_locators": [
+      "act-01.result[4]"
+    ],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-041": {
+    "target": {
+      "action_id": "act-03",
+      "arg_key": "recipient",
+      "literal": "US122000000121212121212"
+    },
+    "user_literal_present": true,
+    "prior_locators": [
+      "act-01.result[4]",
+      "act-02.result[2]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-3",
+      "tr-6"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-042": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "US122000000121212121212"
+    },
+    "user_literal_present": true,
+    "prior_locators": [
+      "act-01.result[4]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-3"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-059": {
+    "target": {
+      "action_id": "act-04",
+      "arg_key": "file_path",
+      "literal": "rent.txt"
+    },
+    "user_literal_present": false,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-060": {
+    "target": {
+      "action_id": "act-04",
+      "arg_key": "file_path",
+      "literal": "rent.txt"
+    },
+    "user_literal_present": false,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-065": {
+    "target": {
+      "action_id": "act-04",
+      "arg_key": "file_path",
+      "literal": "bills.txt"
+    },
+    "user_literal_present": false,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-067": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "US122000000121212121212"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result[4]"
+    ],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-068": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "US122000000121212121212"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result[4]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-4"
+    ],
+    "basis_match_locators": [
+      "act-01.result[4]"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-071": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "US122000000121212121212"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result[4]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-4"
+    ],
+    "basis_match_locators": [
+      "act-01.result[4]"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-072": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "recipient",
+      "literal": "US122000000121212121212"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result[4]"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-4"
+    ],
+    "basis_match_locators": [
+      "act-01.result[4]"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-073": {
+    "target": {
+      "action_id": "act-01",
+      "arg_key": "file_path",
+      "literal": "landlord-notices.txt"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-074": {
+    "target": {
+      "action_id": "act-01",
+      "arg_key": "file_path",
+      "literal": "landlord-notices.txt"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-075": {
+    "target": {
+      "action_id": "act-01",
+      "arg_key": "file_path",
+      "literal": "landlord-notices.txt"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-076": {
+    "target": {
+      "action_id": "act-01",
+      "arg_key": "file_path",
+      "literal": "landlord-notices.txt"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-077": {
+    "target": {
+      "action_id": "act-01",
+      "arg_key": "file_path",
+      "literal": "landlord-notices.txt"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-078": {
+    "target": {
+      "action_id": "act-01",
+      "arg_key": "file_path",
+      "literal": "landlord-notices.txt"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-079": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "city",
+      "literal": "New York"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result"
+    ],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-080": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "city",
+      "literal": "New York, NY 10001"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result"
+    ],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-081": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "city",
+      "literal": "New York"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "in-3"
+    ],
+    "basis_match_locators": [
+      "act-01.result"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-082": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "city",
+      "literal": "New York"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "in-3"
+    ],
+    "basis_match_locators": [
+      "act-01.result"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-083": {
+    "target": {
+      "action_id": "act-03",
+      "arg_key": "city",
+      "literal": "New York"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-3",
+      "tr-1"
+    ],
+    "basis_match_locators": [
+      "act-01.result"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-084": {
+    "target": {
+      "action_id": "act-03",
+      "arg_key": "city",
+      "literal": "New York"
+    },
+    "user_literal_present": false,
+    "prior_locators": [
+      "act-01.result"
+    ],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-3",
+      "tr-1"
+    ],
+    "basis_match_locators": [
+      "act-01.result"
+    ],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-085": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "password",
+      "literal": "1j1l-2k3j"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-086": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "password",
+      "literal": "1j1l-2k3j"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-5"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-087": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "password",
+      "literal": "1j1l-2k3j"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-089": {
+    "target": {
+      "action_id": "act-03",
+      "arg_key": "password",
+      "literal": "1j1l-2k3j"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-4",
+      "tr-7"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-090": {
+    "target": {
+      "action_id": "act-02",
+      "arg_key": "password",
+      "literal": "1j1l-2k3j"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-5"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-091": {
+    "target": {
+      "action_id": "act-03",
+      "arg_key": "city",
+      "literal": "New York"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-092": {
+    "target": {
+      "action_id": "act-03",
+      "arg_key": "recipient",
+      "literal": "CA133012400231215421872"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-1",
+      "tr-2",
+      "tr-3"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-093": {
+    "target": {
+      "action_id": "act-01",
+      "arg_key": "city",
+      "literal": "New York"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": false,
+    "basis_ids": null,
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-094": {
+    "target": {
+      "action_id": "act-01",
+      "arg_key": "city",
+      "literal": "New York"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-095": {
+    "target": {
+      "action_id": "act-03",
+      "arg_key": "recipient",
+      "literal": "CA133012400231215421872"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-3"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  },
+  "rcase-096": {
+    "target": {
+      "action_id": "act-04",
+      "arg_key": "recipient",
+      "literal": "CA133012400231215421872"
+    },
+    "user_literal_present": true,
+    "prior_locators": [],
+    "basis_recorded": true,
+    "basis_ids": [
+      "in-2",
+      "tr-3"
+    ],
+    "basis_match_locators": [],
+    "reference_kind": "mechanically_verified_literal_observations_not_human_gold"
+  }
+}

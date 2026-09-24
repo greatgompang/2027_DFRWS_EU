@@ -1,0 +1,322 @@
+[
+  {
+    "case_id": "rcase-001",
+    "task_id": "user_task_0",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-002",
+    "task_id": "user_task_0",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-003",
+    "task_id": "user_task_0",
+    "provider": "anthropic"
+  },
+  {
+    "case_id": "rcase-004",
+    "task_id": "user_task_0",
+    "provider": "anthropic"
+  },
+  {
+    "case_id": "rcase-005",
+    "task_id": "user_task_0",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-006",
+    "task_id": "user_task_0",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-013",
+    "task_id": "user_task_2",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-014",
+    "task_id": "user_task_2",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-015",
+    "task_id": "user_task_2",
+    "provider": "anthropic"
+  },
+  {
+    "case_id": "rcase-016",
+    "task_id": "user_task_2",
+    "provider": "anthropic"
+  },
+  {
+    "case_id": "rcase-017",
+    "task_id": "user_task_2",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-018",
+    "task_id": "user_task_2",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-019",
+    "task_id": "user_task_3",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-020",
+    "task_id": "user_task_3",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-021",
+    "task_id": "user_task_3",
+    "provider": "anthropic"
+  },
+  {
+    "case_id": "rcase-022",
+    "task_id": "user_task_3",
+    "provider": "anthropic"
+  },
+  {
+    "case_id": "rcase-023",
+    "task_id": "user_task_3",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-024",
+    "task_id": "user_task_3",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-025",
+    "task_id": "user_task_4",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-026",
+    "task_id": "user_task_4",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-027",
+    "task_id": "user_task_4",
+    "provider": "anthropic"
+  },
+  {
+    "case_id": "rcase-029",
+    "task_id": "user_task_4",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-030",
+    "task_id": "user_task_4",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-031",
+    "task_id": "user_task_5",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-032",
+    "task_id": "user_task_5",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-033",
+    "task_id": "user_task_5",
+    "provider": "anthropic"
+  },
+  {
+    "case_id": "rcase-035",
+    "task_id": "user_task_5",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-036",
+    "task_id": "user_task_5",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-037",
+    "task_id": "user_task_6",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-038",
+    "task_id": "user_task_6",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-039",
+    "task_id": "user_task_6",
+    "provider": "anthropic"
+  },
+  {
+    "case_id": "rcase-040",
+    "task_id": "user_task_6",
+    "provider": "anthropic"
+  },
+  {
+    "case_id": "rcase-041",
+    "task_id": "user_task_6",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-042",
+    "task_id": "user_task_6",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-059",
+    "task_id": "user_task_9",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-060",
+    "task_id": "user_task_9",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-065",
+    "task_id": "user_task_10",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-067",
+    "task_id": "user_task_11",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-068",
+    "task_id": "user_task_11",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-071",
+    "task_id": "user_task_11",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-072",
+    "task_id": "user_task_11",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-073",
+    "task_id": "user_task_12",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-074",
+    "task_id": "user_task_12",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-075",
+    "task_id": "user_task_12",
+    "provider": "anthropic"
+  },
+  {
+    "case_id": "rcase-076",
+    "task_id": "user_task_12",
+    "provider": "anthropic"
+  },
+  {
+    "case_id": "rcase-077",
+    "task_id": "user_task_12",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-078",
+    "task_id": "user_task_12",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-079",
+    "task_id": "user_task_13",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-080",
+    "task_id": "user_task_13",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-081",
+    "task_id": "user_task_13",
+    "provider": "anthropic"
+  },
+  {
+    "case_id": "rcase-082",
+    "task_id": "user_task_13",
+    "provider": "anthropic"
+  },
+  {
+    "case_id": "rcase-083",
+    "task_id": "user_task_13",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-084",
+    "task_id": "user_task_13",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-085",
+    "task_id": "user_task_14",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-086",
+    "task_id": "user_task_14",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-087",
+    "task_id": "user_task_14",
+    "provider": "anthropic"
+  },
+  {
+    "case_id": "rcase-089",
+    "task_id": "user_task_14",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-090",
+    "task_id": "user_task_14",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-091",
+    "task_id": "user_task_15",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-092",
+    "task_id": "user_task_15",
+    "provider": "openai"
+  },
+  {
+    "case_id": "rcase-093",
+    "task_id": "user_task_15",
+    "provider": "anthropic"
+  },
+  {
+    "case_id": "rcase-094",
+    "task_id": "user_task_15",
+    "provider": "anthropic"
+  },
+  {
+    "case_id": "rcase-095",
+    "task_id": "user_task_15",
+    "provider": "google"
+  },
+  {
+    "case_id": "rcase-096",
+    "task_id": "user_task_15",
+    "provider": "google"
+  }
+]

@@ -1,0 +1,9 @@
+reader,condition,N,D,A,U,other_incorrect,evidence_status
+luna,C00,64,31,7,21,5,verified_from_saved_artifacts
+luna,C10,64,49,0,9,6,verified_from_saved_artifacts
+luna,C01,64,28,14,15,7,verified_from_saved_artifacts
+luna,C11,64,48,0,6,10,verified_from_saved_artifacts
+sonnet,C00,64,24,2,28,10,verified_from_saved_artifacts
+sonnet,C10,64,49,0,9,6,verified_from_saved_artifacts
+sonnet,C01,64,26,2,28,8,verified_from_saved_artifacts
+sonnet,C11,64,52,0,7,5,verified_from_saved_artifacts

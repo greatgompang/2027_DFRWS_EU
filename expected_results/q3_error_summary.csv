@@ -1,0 +1,5 @@
+reader,condition,errors,U,unwarranted_abstention,extra_locator,nonexistent_locator,subset_omission,wrong_answer_state,target_or_later_locator
+luna,C10,15,9,4,7,0,2,6,1
+luna,C11,16,6,6,6,0,4,6,0
+sonnet,C10,15,9,6,7,0,0,10,0
+sonnet,C11,12,7,5,6,0,0,8,0

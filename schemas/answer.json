@@ -1,0 +1,82 @@
+{
+  "type": "object",
+  "properties": {
+    "user_literal": {
+      "type": "object",
+      "properties": {
+        "answer": {
+          "type": "string",
+          "enum": [
+            "present",
+            "absent",
+            "insufficient_evidence"
+          ]
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "answer",
+        "evidence"
+      ],
+      "additionalProperties": false
+    },
+    "prior_external": {
+      "type": "object",
+      "properties": {
+        "answer": {
+          "type": "string",
+          "enum": [
+            "resolved",
+            "insufficient_evidence"
+          ]
+        },
+        "locators": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "answer",
+        "locators"
+      ],
+      "additionalProperties": false
+    },
+    "basis_relation": {
+      "type": "object",
+      "properties": {
+        "answer": {
+          "type": "string",
+          "enum": [
+            "resolved",
+            "basis_missing",
+            "insufficient_evidence"
+          ]
+        },
+        "locators": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "answer",
+        "locators"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "user_literal",
+    "prior_external",
+    "basis_relation"
+  ],
+  "additionalProperties": false
+}

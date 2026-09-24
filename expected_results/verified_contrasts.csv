@@ -1,0 +1,9 @@
+study,reader,question,left,right,change_pp,lower_pp,upper_pp,clusters,draws,seed,evidence_status
+I,luna,prior_external,R00,R10,-7.179487179487179,-20.51282051282051,3.8461538461538463,13,10000,42,verified_from_saved_artifacts
+I,luna,prior_external,R01,R11,-1.282051282051282,-3.8461538461538463,0.0,13,10000,42,verified_from_saved_artifacts
+I,sonnet,prior_external,R00,R10,-1.5384615384615385,-4.615384615384617,0.0,13,10000,42,verified_from_saved_artifacts
+I,sonnet,prior_external,R01,R11,0.0,0.0,0.0,13,10000,42,verified_from_saved_artifacts
+II,luna,basis_relation,C00,C10,14.358974358974358,0.2564102564102566,30.0,13,10000,42,verified_from_saved_artifacts
+II,luna,basis_relation,C01,C11,13.076923076923077,-4.615384615384615,32.56410256410256,13,10000,42,verified_from_saved_artifacts
+II,sonnet,basis_relation,C00,C10,31.538461538461533,14.871794871794872,51.02564102564102,13,10000,42,verified_from_saved_artifacts
+II,sonnet,basis_relation,C01,C11,35.769230769230774,15.128205128205128,57.179487179487175,13,10000,42,verified_from_saved_artifacts
