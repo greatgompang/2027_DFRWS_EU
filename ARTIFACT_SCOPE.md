@@ -11,7 +11,7 @@ The reference manuscript is **Correct Answers, Unsupported Findings: Auditing Ev
 | Table 5, Study II (`tab:study2`) | Recalculable | `results/results_summary.csv`, study II; 512 retained readings. |
 | Table 6, primary contrasts (`tab:contrasts`) | Recalculable | `results/verified_contrasts.csv`; eight task-equal contrasts and 10,000-draw intervals. |
 | Table 7, mapping-required stratum (`tab:required`) | Recalculable | `results/strata.csv`; all 28 cases, both readers, all C conditions. |
-| Figure 1, study overview (`fig:overview`) | Partly verifiable | 96/64/32 selection, 13 tasks, condition construction, within-condition input equality, and scorer/comparator boundary are verified. The inspected manuscript has a temporary figure placeholder; graphic/layout reproduction is outside scope. |
+| Figure 1, study overview (`fig:overview`) | Partly verifiable | 96/64/32 selection, 13 tasks, condition construction, within-condition input equality, and scorer/comparator boundary are verified. Graphic/layout reproduction is outside scope. |
 | Figure 2, Q3 outcomes (`fig:q3`) | Numerical content recalculable | `results/figure2_outcomes.csv`, `results/figure2.svg`; new SVG rendering of the same D/A/U/other counts. |
 
 All 37 numeric table rows across Tables 3–7 are checked against the shipped TeX excerpts, including the eight primary intervals rounded to two decimals. Table 2 is a schema description, not an additional numeric test. These excerpts are retained comparison material, not a complete compilable manuscript.

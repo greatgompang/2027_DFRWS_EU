@@ -1,4 +1,4 @@
-# Correct Answers, Unsupported Findings: Auditing Evidence Bindings in LLM Agent Logs
+# Correct Answers, Unsupported Findings: Evidence Binding in Forensic Reconstruction of LLM Agent Logs
 
 This anonymous review artifact reproduces the **scoring and aggregation of saved outputs for Studies I and II**. It contains 96 candidate source executions, 64 applicable cases across 13 tasks, 512 distinct visible packets, and all 1,024 reader outputs (512 per study). The 32 structurally inapplicable candidates and all wrong answers are retained. It does not rerun hosted models or reproduce the whole original attack campaign.
 

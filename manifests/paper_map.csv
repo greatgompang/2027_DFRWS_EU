@@ -6,7 +6,7 @@ Table 4,tab:study1,recalculable,results/results_summary.csv,study=I
 Table 5,tab:study2,recalculable,results/results_summary.csv,study=II
 Table 6,tab:contrasts,recalculable,results/verified_contrasts.csv,13 clusters; 10000 draws; seed42
 Table 7,tab:required,recalculable,results/strata.csv,stratum=mapping_required
-Figure 1,fig:overview,partly_verifiable,results/input_validation.json,Selection/conditions/boundaries verified; manuscript has a graphical placeholder
+Figure 1,fig:overview,partly_verifiable,results/input_validation.json,Selection/conditions/boundaries verified; graphic/layout reproduction is outside scope
 Figure 2,fig:q3,numerically_recalculable,results/figure2_outcomes.csv;results/figure2.svg,Same outcome counts; new SVG rendering
 Abstract,26/28 and 22,recalculable,results/strata.csv,Sonnet C00 mapping_required U=26 W_and_U=22
 Results,58 errors in 31 cases,recalculable,results/q3_with_binding_errors.json;results/q3_error_summary.csv,"Overlapping mechanical flags, not exclusive causes"
